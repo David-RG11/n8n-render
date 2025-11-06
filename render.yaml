@@ -33,9 +33,9 @@ services:
       - key: DB_POSTGRESDB_SCHEMA
         value: public
       - key: WEBHOOK_URL
-        value: https://n8n-render-7eqz.onrender.com/
+        value: https://n8n-render-davidrg.onrender.com/
       - key: N8N_ENCRYPTION_KEY
-        value: z3fBMlrIXKklJjKnhxi7lHDpTlwiaIr1
+        value: YOUR_ENCRYPTION_KEY_HERE
       - key: GENERIC_TIMEZONE
         value: Europe/Madrid
       - key: TZ
